@@ -125,7 +125,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section id="about" className="container mx-auto">
+      <section id="about" className="container mx-auto px-14">
         {/* ABOUT SECTION */}
         <h2 className="text-3xl font-bold mb-4 text-black">About Me</h2>
         <BlurText
@@ -137,7 +137,7 @@ export default function Home() {
         />
       </section>
 
-      <section id="education" className="container mx-auto">   
+      <section id="education" className="container mx-auto px-14">   
         {/* EDUCATION SECTION */}
         <h2 className="text-3xl font-bold mb-4 text-black">Education</h2>
         <div className="mb-6">
@@ -159,7 +159,7 @@ export default function Home() {
         <br />
       </section>
       
-      <section id="skills" className="container mx-auto">
+      <section id="skills" className="container mx-auto px-14">
         {/* SKILLS & TOOLS SECTION */}
         <h2 className="text-3xl font-bold mb-4 text-black">Technical Skills</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -172,8 +172,8 @@ export default function Home() {
           ))}
         </div>
 
-        <h2 className="text-lg md:text-4xl mb-4 text-black dark:text-white max-w-4xl">
-          <b>Interest & Soft Skills</b>
+        <h2 className="text-3xl font-bold mb-4 text-black mt-12">
+          Interests & Soft Skills
         </h2>
         <CardHoverEffectDemo />
       </section>
@@ -197,11 +197,11 @@ export default function Home() {
         </section>
 
         {/* CONTACT SECTION */}
-        <section id="contact" className="container mx-auto">   
+        <section id="contact" className="container mx-auto px-14">   
         <ContactSection />
       </section>
 
-      <section id="specialfeature" className="container mx-auto">   
+      <section id="specialfeature" className="container mx-auto px-14">   
       <CTFSection />
       </section>
     </div>

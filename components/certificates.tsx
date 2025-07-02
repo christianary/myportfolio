@@ -8,7 +8,7 @@ export default function Certificates() {
       src: "/assets/certificates/COMPFEST.png",
     },
     {
-      title: "Participants COMPSPHERE 2023",
+      title: "Participants of COMPSPHERE 2023",
       src: "/assets/certificates/COMPSPHERE.png",
     },
     {
