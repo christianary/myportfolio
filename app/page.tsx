@@ -172,8 +172,8 @@ export default function Home() {
           ))}
         </div>
 
-        <h2 className="text-3xl font-bold mb-4 text-black mt-12">
-          Interests & Soft Skills
+        <h2 className="text-lg md:text-4xl mb-4 text-black dark:text-white max-w-4xl">
+          <b>Interest & Soft Skills</b>
         </h2>
         <CardHoverEffectDemo />
       </section>
