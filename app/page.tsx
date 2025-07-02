@@ -154,7 +154,7 @@ export default function Home() {
             High School (2020 - 2023)
           </h3>
           <p className="text-black">SMATER Don Bosco Manado</p>
-          <p className="text-black">Focus: Cyber Security</p>
+          <p className="text-black">Focus: Natural Science</p>
         </div>
         <br />
       </section>
