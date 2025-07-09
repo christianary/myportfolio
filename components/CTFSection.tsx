@@ -9,7 +9,7 @@ export default function CTFSection() {
     "idle"
   );
 
-  const CORRECT_FLAG = "flag{ahh_you_found_my_secret_flag}"; // Replace with your actual flag!
+  const CORRECT_FLAG = "flag{d3bug_m3_1f_y0u_c4n}";
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
