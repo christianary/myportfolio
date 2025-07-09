@@ -11,13 +11,13 @@ export default function FlagPage() {
       <br />
       <p>
         Where's the flag? <br />
-        keep your eyes open and xxxx xxxxxxx xxx...
+        Keep your eyes open and try to visit other things?
       </p>
       <Script
-        id="flag-console-log"
+        id="console-log"
         strategy="afterInteractive"
         dangerouslySetInnerHTML={{
-          __html: `console.log("102108971031239710410495121111117951021111171101009510912195115101991141011169510210897103125");`,
+          __html: `console.log("83116971143279100121115115101121");`,
         }}
       />
     </main>
