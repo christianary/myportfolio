@@ -26,11 +26,11 @@ export default function ContactSection() {
           <span>github.com/christianary</span>
         </a>
         <a
-          href="mailto:christianary.personal@gmail.com"
+          href="mailto:jeremychristianwalangitan@gmail.com"
           className="flex items-center gap-3 hover:text-red-600 transition-colors"
         >
           <Mail className="h-6 w-6" />
-          <span>christianary.personal@gmail.com</span>
+          <span>jeremychristianwalangitan@gmail.com</span>
         </a>
       </div>
     </section>

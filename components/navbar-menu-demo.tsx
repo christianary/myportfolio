@@ -54,7 +54,7 @@ function Navbar({ className }: { className?: string }) {
           <div className="flex flex-col space-y-4 text-sm">
             <HoveredLink href="https://www.linkedin.com/in/christianjeremy/">LinkedIn</HoveredLink>
             <HoveredLink href="https://github.com/christianary">GitHub</HoveredLink>
-            <HoveredLink href="mailto:christinary.personal@gmail.com">Email</HoveredLink>
+            <HoveredLink href="mailto:jeremychristianwalangitan@gmail.com">Email</HoveredLink>
           </div>
         </MenuItem>
       </Menu>
